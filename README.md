@@ -1,5 +1,3 @@
-*This is a project for Prof. Purtee's CSC 171.*
-
 # Documentation for Yuri
 
 This project is a four-key rhythm game under the working title *Yuri*. It is not complete, but it is presentable!
