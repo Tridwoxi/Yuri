@@ -1,6 +1,6 @@
 # Documentation for Yuri
 
-This project is a four-key rhythm game under the working title *Yuri*. It is not complete, but it is presentable!
+This project is a four-key rhythm game under the working title *Yuri*.
 
 ![Gameplay screenshot](./docs/gameplay.png)
 
@@ -33,13 +33,3 @@ public class ChartManager extends VBox {
 Please see the source files for the individual classes.
 
 Miscellaneous files include "Nord.java" to declare the color scheme, "chartgen.py" to create .yrct files by Markov chain and functional programming (please see it! it's my favorite file!), and "Mini.java" to hold various small accessory classes lest I end up with 30 source files.
-
-## AI tool use
-
-I used AI tools to speed up the reading of online sources by asking questions I didn't want to consult documentation for. No Java code from these conversations was used except for see below.
-
-I used AI tools on the following tasks in this project:
-
-- To write code. I often had AI write my getters and setters. No other code was written by AI.
-- To format. An existing code style was applied to other existing code.
-- To learn style. e.g., "when is a nested class better?"
